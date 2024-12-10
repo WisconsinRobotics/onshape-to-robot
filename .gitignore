@@ -8,3 +8,5 @@ data
 dist
 build
 onshape_to_robot.egg-info
+config.json
+dev/
